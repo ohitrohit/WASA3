@@ -7,5 +7,8 @@ public class Practice2 {
 	@Test
 	public void Sample2() {
 		System.out.println("update");
+		
+		
+		System.out.println("Branches");
 	}
 }
